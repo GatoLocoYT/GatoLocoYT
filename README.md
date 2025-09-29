@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Ramiro and I'm a Web Dev, from Argentina.</h2>
+<h2 align="left">Hi 👋! I'm Ramiro, a Full Stack Developer specialized in MERN, Python & C#, from Argentina.</h2>
+
 
 ###
 
