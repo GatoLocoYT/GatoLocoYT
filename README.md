@@ -35,7 +35,7 @@
   <a href="https://www.youtube.com/@gatoloco_y_t" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-  <a href="https://www.instagram.com/_crazycat_uwu/" target="_blank">
+  <a href="https://www.instagram.com/gato.el.loco/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://www.twitch.tv/gatolocottv" target="_blank">
